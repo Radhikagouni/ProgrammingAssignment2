@@ -1,6 +1,4 @@
 # Read and source the R Script
-# Lines with # are comments and lines with #> are printed to output console 
-
 # create a *square* matrix, during the call of makeCacheMatrix() or and alternative method to pass
 # arguments is given too
 a <- makeCacheMatrix( matrix(c(1,2,4,8,10,12,14,16,20), nrow = 3, ncol = 3) );
