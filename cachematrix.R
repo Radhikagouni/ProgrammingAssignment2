@@ -4,8 +4,7 @@
 ## makeCacheMatrix is a function that stores a matrix and cached value of the inverse matrix.
 
 ## makeCacheMatrix function contains set, get, setmatrix and getmatrix functions
-#makeCacheMatrix <- function(x = matrix()) {
-  makeCacheMatrix <- function(x = number()) {              
+makeCacheMatrix <- function(x = matrix()) {
         # holds the cached value or NULL if nothing is cached
         # initially nothing is cached so set it to NULL
         m<-NULL
