@@ -1,5 +1,5 @@
 ## Read and source the R Script
-## create a *square* matrix, during the call of makeCacheMatrix() or and alternative method to pass arguments is given too
+## create a *square* matrix, during the call of makeCacheMatrix() or an alternative method to pass arguments is given too
 a <- makeCacheMatrix( matrix(c(1,2,4,8,10,12,14,16,20), nrow = 3, ncol = 3) );
 
 summary(a)
