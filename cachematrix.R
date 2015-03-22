@@ -1,4 +1,3 @@
-## For clear understanding of the script refer to README.md
 ## The assignment says running the code is not part of the grading, but then i have included output of the below code
 ## along with how to run it anyway, to ease your understanding and grading
 ## makeCacheMatrix is a function that stores a matrix and cached value of the inverse matrix.
